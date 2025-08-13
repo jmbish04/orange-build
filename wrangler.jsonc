@@ -65,8 +65,8 @@
 	"d1_databases": [
 		{
 			"binding": "DB",
-			"database_name": "orange-build-db",
-			"database_id": "746a746f-2aae-4b72-be60-30f8f0ec3239",
+			"database_name": "orange-builder",
+			"database_id": "ac093f61-d857-4d58-b129-cdd2ed42a0de",
 			"migrations_dir": "migrations"
 			// "experimental_remote": true
 		}
@@ -101,7 +101,7 @@
     "kv_namespaces": [
         {
             "binding": "INSTANCE_REGISTRY",
-            "id": "696926e9fa95494bb5d542562b926e0e",
+            "id": "f0d64d657f3c4191a23b060747769829",
             "experimental_remote": true
         }
     ],
